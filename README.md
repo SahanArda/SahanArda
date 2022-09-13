@@ -1,4 +1,4 @@
-Hi 👋 My name is Arda Sahan
+Hi 👋 My name is Arda Sahan!
 ===========================  
 Computer Science Student and Aspiring Developer 
 -----------------------------------------------  
