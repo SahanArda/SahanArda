@@ -1,4 +1,4 @@
-### Hello!, my name is Arda 💙
+### Hello!, my name is Arda 💙 
 
 I'm a 21 year old software engineer intern based in London, and I love turning ideas into digital realities. 
 
