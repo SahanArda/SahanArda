@@ -22,3 +22,4 @@ I'm a 21 year old software engineer intern based in London, and I love turning i
 - Computer science student.
 - Software Engineer Intern.
 - Love meeting new people and learning new things.
+- Love Star Wars & Anime
