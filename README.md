@@ -1,6 +1,6 @@
 ### Hello!, my name is Arda 💙 
 
-I'm a 21 year old software engineer intern based in London, and I love turning ideas into digital realities. 
+I'm a 22 year old software engineer intern based in London, and I love turning ideas into digital realities. 
 
 - Heres my portfolio [website](https://www.ardasahan.com/) check it out!
 - Connect with me on my [LinkedIn](https://www.linkedin.com/in/arda-sahan-142309250/) if you have any questions or want to have a chat.
