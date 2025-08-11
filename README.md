@@ -1,6 +1,6 @@
 ### Hello!, my name is Arda 💙 
 
-I'm a 22 year old final year computer science student based in London, and I love turning ideas into digital realities. 
+Computer Science graduate and Software Engineer based in London, and I love turning ideas into digital realities. 
 
 - Heres my portfolio [website](https://www.ardasahan.com/) check it out!
 - Connect with me on my [LinkedIn](https://www.linkedin.com/in/arda-sahan-142309250/) if you have any questions or want to have a chat.
@@ -19,7 +19,7 @@ I'm a 22 year old final year computer science student based in London, and I lov
 
 ## 👀 About Me
 
-- Computer science student.
-- Software Engineer Intern.
+- Computer science graduate.
+- Software Engineer.
 - Love meeting new people and learning new things.
 - Love Star Wars & Anime
